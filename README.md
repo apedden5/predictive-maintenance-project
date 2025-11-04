@@ -5,8 +5,8 @@ This project contains a machine learning system that predicts when machines are 
 
 ## Models:
 
-- **Binary classification: Predicts failure (1 = yes, 0 = No)
-- **Multiclass classification: If it fails, what type of failure is it? (1. Heat Dissipation Failure, 2. Power Failure, 3. Overstrain Failure, 4. Tool Wear Failure, 5. Random Failures?)
+- Binary classification: Predicts failure (1 = yes, 0 = No)
+- Multiclass classification: If it fails, what type of failure is it? (1. Heat Dissipation Failure, 2. Power Failure, 3. Overstrain Failure, 4. Tool Wear Failure, 5. Random Failures?)
 
 
 The data was cleaned and prepared in Google BigQuery (SQL), then exported to Google Colab for training. I tested different approaches and built custom neural networks in PyTorch, which gave the best results.
@@ -36,6 +36,4 @@ These results show that machine failures can be detected early, helping reduce d
 1. Open notebooks in Google Colab or Jupyter
 2. Install dependencies
 3. Run each cell to train/test models
-
-> Note: The dataset is included inside the repo.
 
