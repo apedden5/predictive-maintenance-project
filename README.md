@@ -30,12 +30,17 @@ These results show that machine failures can be detected early, helping reduce d
 - `Final_Project_Machine_Maintenance_Report.pdf` = Full project report
 - `Final_Project_Binary_Classification.ipynb` = Binary model notebook
 - `Final_Project_Multi_Classification.ipynb` = Multiclass model notebook
-
+- `BinaryTrain` = Clean binary training set
+- `BinaryTest` = Clean binary test set
+- `MultiClassTrain` = Clean multiclass training set
+- `MultiClassTest` = Clean multiclass test set
+  
 ## How to Run
 
 1. Open notebooks in Google Colab or Jupyter
 2. Install dependencies
 3. Run each cell to train/test models
 
-> Note: the clean binary and multiclass test and train datasets are located in the repository
+> Note: the clean binary and multiclass test and train datasets are located in the repository.  The original uncleaned dataset is located on kaggle, the link is given below:
+> https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
 
