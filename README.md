@@ -41,6 +41,7 @@ These results show that machine failures can be detected early, helping reduce d
 2. Install dependencies
 3. Run each cell to train/test models
 
-> Note: the clean binary and multiclass test and train datasets are located in the repository.  The original uncleaned dataset is located on kaggle, the link is given below:
-> https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
+> Note: the clean binary and multiclass test and train datasets are located in the repository.  The original uncleaned dataset is located on kaggle.
+
+> Original Dataset: https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
 
